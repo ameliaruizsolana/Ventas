@@ -19,4 +19,10 @@ public class Ventas {
         System.out.println("hola");
     }
     
+    public static void nuevoJordan()
+    {
+        System.out.println("hola soy jordan");
+        
+    }
+    
 }
