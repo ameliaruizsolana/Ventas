@@ -25,6 +25,13 @@ public class Ventas {
            System.out.println("Nuevo metodo Amelia");
             System.out.println("Nuevo metodo Amelia");
              System.out.println("Nuevo metodo Amelia");
+             
+              System.out.println("lalala");
+         System.out.println("lalala");
+           System.out.println("lalala");
+            System.out.println("lalala");
+             System.out.println("lalala");
+              System.out.println("lalala");
     }
     
     public static void nuevoJordan()
