@@ -18,6 +18,9 @@ public class Ventas {
         // TODO code application logic here
         System.out.println("hola");
     }
+    public static void nuevoAmelia(){
+        System.out.println("Nuevo metodo Amelia");
+    }
     
     public static void nuevoJordan()
     {
