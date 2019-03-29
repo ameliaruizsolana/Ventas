@@ -19,7 +19,12 @@ public class Ventas {
         System.out.println("hola");
     }
     public static void nuevoAmelia(){
-        System.out.println("Nuevo metodo Amelia");
+        System.out.println("primera linea");
+         System.out.println("Nuevo metodo Amelia");
+          System.out.println("Nuevo metodo Amelia");
+           System.out.println("Nuevo metodo Amelia");
+            System.out.println("Nuevo metodo Amelia");
+             System.out.println("Nuevo metodo Amelia");
     }
     
     public static void nuevoJordan()
