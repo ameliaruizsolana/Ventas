@@ -33,6 +33,7 @@ public class Ventas {
              System.out.println("lalala");
               System.out.println("lalala");
               System.out.println("modificacion ultima");
+              System.out.println("Funcionalidad 1");
     }
     
     public static void nuevoJordan()
